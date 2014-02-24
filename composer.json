@@ -13,5 +13,10 @@
             "email": "samjoyce777@gmail.com",
             "homepage": "http://www.samjoyce.co.uk",
             "role": "Developer"
-        }]
+        }],
+    "autoload": {
+        "psr-0" : {
+            "samjoyce777\\location" : "src"
+        }
+    }
 }

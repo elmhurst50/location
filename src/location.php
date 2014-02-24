@@ -4,6 +4,9 @@
  * @package GeoDetails
  * @license GPL
  */
+
+namespace samjoyce777\Location;
+
 class Location {
 
     private $earthRadiusinKM = 6371.00; # in km
