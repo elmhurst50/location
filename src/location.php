@@ -5,7 +5,7 @@
  * @license GPL
  */
 
-namespace samjoyce777\Location;
+namespace samjoyce777\location;
 
 class Location {
 
