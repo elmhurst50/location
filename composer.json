@@ -2,7 +2,7 @@
     "name": "samjoyce777/location",
     "description": "This is a very cool package!",
     "version": "0.3.0",
-    "type": "library",
+    "type": "git",
     "keywords": ["logging", "cool", "awesome"],
     "homepage": "http://samjoyce.co.uk",
     "time": "2012-12-21",
