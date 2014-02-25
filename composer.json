@@ -16,7 +16,7 @@
         }],
     "autoload": {
         "psr-0" : {
-            "samjoyce777\\location" : "src"
+            "sam\\location" : "src"
         }
     }
 }
